@@ -19,7 +19,7 @@ python3 main.py
 **Перейдите на сайту**  https://my.telegram.org и введите свой телеграм номер и входите аккаунта.
 ![photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111110_Chrome.jpg)
 
-**Нажмите на меню** `API Development`
+**Нажмите на меню** `API development tools`
 
 ![photo1](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111222_Chrome.jpg)
 
