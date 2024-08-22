@@ -13,7 +13,14 @@ pip3 install telethon
 ```
 nano main.py
 ```
-**Далее** укажите свой Номер, API_ID, API_HASH, Ссылка для канала:  и Целовой канал
+**Далее** укажите свой Номер, API_ID, API_HASH.
+
+```python
+ID или ссылка на исходный и целевой каналы
+source_channel = 'ID_ИЛИ_ССЫЛКА_ИСТОЧНИКА'
+target_channel = 'ID_ИЛИ_ССЫЛКА_ЦЕЛЕВОГО'
+```
+
 ```
 python3 main.py 
 ```
