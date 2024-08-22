@@ -27,7 +27,7 @@ python3 main.py
 
 ![photo2](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111235_Chrome.jpg)
 
-**Далее копируйте** `API_TOKEN и API_HASH`
+**Далее копируйте** `API_ID и API_HASH`
 ![photo3](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111238_Chrome.jpg)
 
 **Вставьте** копируемый `API_ID и API_HASH`  на коду и запустите скрипт после этого вам спросить номер телефона, `API_ID, API_HASH` после этого скрипт работает и вам снова не нужно указывать API.
