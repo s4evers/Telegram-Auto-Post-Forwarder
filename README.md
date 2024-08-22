@@ -13,7 +13,13 @@ pip3 install telethon
 ```
 nano main.py
 ```
-**Далее** укажите свой Номер, API_ID, API_HASH.
+**Далее** укажите на код следующие:
+```python 
+# Ваши данные для авторизации в Telegram API
+api_id = 'ВАШ_API_ID'
+api_hash = 'ВАШ_API_HASH'
+phone = 'ВАШ_НОМЕР_ТЕЛЕФОНА'
+```
 
 ```python
 #ID или ссылка на исходный и целевой каналы
