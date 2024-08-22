@@ -11,6 +11,10 @@ cd Telegram-Auto-Post-Forwarder
 pip3 install telethon
 ```
 ```
+nano main.py
+```
+**Далее** укажите свой Номер, API_ID, API_HASH, Ссылка для канала:  и Целовой канал
+```
 python3 main.py 
 ```
 
