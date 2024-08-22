@@ -16,10 +16,15 @@ python3 main.py
 
 После запуска скрипта вы должны указать номер телефона, API_ID, API_HASH. вы можете взять API из официального сайта телеграм: my.telegram.org  здесь вы входите аккаунта используя номер телефона и код подтверждения, далее перейдите меню API Development и создайте приложение и получите доступ к API и вставьте на скрипту.
 
-# Перейдите на сайту my.telegram.org
+Перейдите на сайту my.telegram.org и введите свой телеграм номер и входите аккаунта.
 ![photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111110_Chrome.jpg)
 
-# 
+Перейдите меню `API Development`
+
+[photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111222_Chrome.jpg)
+
+
+
 
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
