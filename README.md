@@ -21,17 +21,14 @@ python3 main.py
 
 # Нажмите на меню `API Development`
 
-![photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111222_Chrome.jpg)
+![photo1](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111222_Chrome.jpg)
 
 # Выполняйте следующие действия:
 
-![photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111235_Chrome.jpg)
+![photo2](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111235_Chrome.jpg)
 
 # Далее копируйте API_TOKEN и API_HASH
-![photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111238_Chrome.jpg)
-
-
-
+![photo3](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111238_Chrome.jpg)
 
 
 
