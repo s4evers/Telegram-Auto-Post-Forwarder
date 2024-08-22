@@ -19,19 +19,21 @@ python3 main.py
 # Перейдите на сайту my.telegram.org и введите свой телеграм номер и входите аккаунта.
 ![photo](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111110_Chrome.jpg)
 
-# Нажмите на меню `API Development`
+**Нажмите на меню** `API Development`
 
 ![photo1](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111222_Chrome.jpg)
 
-# Выполняйте следующие действия:
+**Выполняйте** следующие действия:
 
 ![photo2](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111235_Chrome.jpg)
 
-# Далее копируйте API_TOKEN и API_HASH
+**Далее копируйте** `API_TOKEN и API_HASH`
 ![photo3](https://github.com/s4evers/Telegram-Auto-Post-Forwarder/blob/main/Screenshot_20240822_111238_Chrome.jpg)
 
+**Вставьте** копируемый `API_ID и API_HASH`  на коду и запустите скрипт после этого вам спросить номер телефона, `API_ID, API_HASH` после этого скрипт работает и вам снова не нужно указывать API.
 
 
+# Подписывайте:
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Muhammedov)
 <a href="https://youtube.com/@nukotz?si=1Z6uz0wO2NpOeJUY"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=Youtube"></a>
